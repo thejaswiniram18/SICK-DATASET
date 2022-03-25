@@ -1,0 +1,142 @@
+pair_ID,sentence_A,sentence_B,relatedness_score,entailment_judgment
+88,There is no biker jumping in the air,A lone biker is jumping in the air,4.2,CONTRADICTION
+256,There is no man on a rock high above some trees standing in a strange position,A man is on a rock high above some trees and is standing in a strange position,4.3,CONTRADICTION
+392,There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something,A man is wearing clothes that are covered with paint and is sitting outside in a busy area writing something,4.1,CONTRADICTION
+395,A man is sitting near a bike and is writing a note,There is no man writing a note near a bike,4.2,CONTRADICTION
+476,There is no child holding a water gun or getting sprayed with water,A laughing child is holding a water gun and getting sprayed with water,4.0,CONTRADICTION
+653,A young boy isn't climbing a wall made of rock,The young boy is climbing the wall made of rock,4.1,CONTRADICTION
+703,Two large persons are sitting on a park bench and they have a bottle of soda between them,Two large persons are standing near a park bench and they have nothing between them,4.1,CONTRADICTION
+785,The dog is snapping at some droplets of water,The dog isn't snapping at some droplets of water,4.0,CONTRADICTION
+831,There is no little kid playing football and falling into the grass,The little kid is playing football and falling into the grass,4.1,CONTRADICTION
+881,The girl in the blue and white uniform isn't cheering,The girl in the blue and white uniform is cheering,4.1,CONTRADICTION
+1002,There is no boy standing in front of the blue building in the space reserved for handicapped people,A boy is standing in front of the blue building in the space reserved for handicapped people,4.1,CONTRADICTION
+1074,The young girl with a pink shirt is peacefully lying on the grass,The young girl with a pink shirt isn't peacefully lying on the grass,4.5,CONTRADICTION
+1167,There is no woman slicing a carrot,A woman is slicing a carrot,4.1,CONTRADICTION
+1379,Nobody is rinsing a steak with water,A person is rinsing a steak with water,4.0,CONTRADICTION
+1386,A person is not chopping an onion,A person is chopping an onion,4.4,CONTRADICTION
+1467,Three men are jumping on a wall,Three men are jumping off a wall,4.0,CONTRADICTION
+1494,There is no man playing guitar,A man is playing guitar,4.3,CONTRADICTION
+1498,A man is playing guitar,There is no man playing a guitar,4.1,CONTRADICTION
+1724,A man is recklessly riding a horse,There is no man recklessly riding a horse,4.1,CONTRADICTION
+1747,One man is turning on the microwave,One man is turning off the microwave,4.0,CONTRADICTION
+1886,A person is singing and playing the guitar,There is no person singing and playing the guitar,4.1,CONTRADICTION
+2079,A woman is beating two eggs in a bowl and using a whisk made of wire,There is no woman beating two eggs in a bowl and using a whisk made of wire,4.0,CONTRADICTION
+2165,A woman is using a sewing machine,There is no woman using a sewing machine,4.1,CONTRADICTION
+2247,There is no man eating a bowl of cereal,A man is eating a bowl of cereal,4.0,CONTRADICTION
+2251,There is no man eating cereal,A man is eating a bowl of cereal,4.0,CONTRADICTION
+2303,The woman is waterskiing,The woman is not waterskiing,4.1,CONTRADICTION
+2329,There is no person cutting an onion,A person is cutting an onion,4.0,CONTRADICTION
+2338,The oriental lady is cutting a carrot into thin pieces,The oriental lady is not cutting a carrot into thin pieces,4.1,CONTRADICTION
+2375,The man is playing an acoustic guitar,There is no man playing the guitar,4.2,CONTRADICTION
+2518,Four people are floating on a raft,Nobody is floating on a raft,4.15,CONTRADICTION
+2540,The person isn't slicing a vegetable,The person is slicing a vegetable,4.085,CONTRADICTION
+2574,There is no man playing a bamboo flute,A man is playing a bamboo flute,4.0,CONTRADICTION
+2656,The lady is slicing up the meat,The lady isn't slicing up the meat,4.1,CONTRADICTION
+2696,There is no man singing and playing the guitar,The man is singing and playing the guitar,4.0,CONTRADICTION
+2850,The woman is not cooking something,A woman is cooking eggs,4.2,CONTRADICTION
+2864,Nobody is riding a bike,Two people are riding a bike,4.3,CONTRADICTION
+2909,A girl is applying makeup to her face,There is no girl applying makeup to her face,4.3,CONTRADICTION
+2998,There is no woman playing an electric guitar,A woman is playing an electric guitar,4.2,CONTRADICTION
+3114,A man is eating some food,The man is fasting,4.2,CONTRADICTION
+3170,There is no young boy playing a wind instrument,A young boy is playing a wind instrument,4.3,CONTRADICTION
+3201,The woman is stirring meat in a bowl,There is no lady mixing a meat mixture in a bowl,4.1,CONTRADICTION
+3217,A kitten is playing with a blue rope toy,The kitten is not playing with a toy,4.0,CONTRADICTION
+3347,There is no one typing,Someone is typing,4.0,CONTRADICTION
+3400,Nobody is beating an egg,The woman is stirring eggs in a bowl,4.1,CONTRADICTION
+3467,A man is playing a guitar,There is no man playing a guitar,4.285,CONTRADICTION
+3554,A squirrel is spinning around in circles,There is no squirrel spinning around in circles,4.2,CONTRADICTION
+3568,The piece of paper is not being cut,The piece of paper is being cut,4.0,CONTRADICTION
+3689,The men are packing suitcases into the trunk of a car,The men are not packing suitcases into the trunk of a car,4.4,CONTRADICTION
+3696,The men are putting suitcases into the trunk of a car,The men are not packing suitcases into the trunk of a car,4.0,CONTRADICTION
+3720,A person is peeling an onion,There is no person peeling an onion,4.0,CONTRADICTION
+3725,The person is slicing onions,The person is peeling an onion,4.3,CONTRADICTION
+3886,There is no man dancing,A man is dancing,4.4,CONTRADICTION
+3948,The men are fist fighting in a ring,Nobody is fist fighting in a ring,4.3,CONTRADICTION
+3993,A man is singing and playing a guitar,There is no man singing and playing a guitar,4.0,CONTRADICTION
+4028,There is no man breaking wooden boards with his hand,A man is breaking wooden boards with his hand,4.5,CONTRADICTION
+4037,A person is riding a jetski in the waves,There is no person riding a jetski in the waves,4.0,CONTRADICTION
+4108,There is no man eating food,A man is eating some food,4.1,CONTRADICTION
+4238,A man is playing a flute,There is no man playing a flute,4.0,CONTRADICTION
+4305,A woman is not riding a horse,A woman is riding a horse,4.5,CONTRADICTION
+4361,A man is cutting a paper,There is no man cutting a paper,4.3,CONTRADICTION
+4390,A guy is not riding a horse,A guy is riding a horse,4.1,CONTRADICTION
+4529,A man is riding a horse,There is no man riding a horse,4.4,CONTRADICTION
+4565,Two men are not fighting,Two men are fighting,4.0,CONTRADICTION
+4637,There is no man playing a keyboard,A man is playing a keyboard,4.4,CONTRADICTION
+4664,There is no woman slicing an onion,A woman is slicing an onion,4.3,CONTRADICTION
+4711,There is no butter being added to the stand mixer,Pieces of butter are being added to the stand mixer,4.0,CONTRADICTION
+4718,There is no monkey kicking a person,A monkey is kicking a person,4.3,CONTRADICTION
+4729,There is no man fixing a silencer to a gun,A man is fixing a silencer to a gun,4.0,CONTRADICTION
+4740,A person is performing tricks on a motorcycle,A person is not performing tricks on a motorcycle,4.1,CONTRADICTION
+4798,There is no kid playing guitar,A boy is playing a guitar,4.0,CONTRADICTION
+4872,A woman is not slicing carrots,A woman is slicing carrots,4.4,CONTRADICTION
+4888,A man is doing pull-ups,There is no man doing pull-ups,4.2,CONTRADICTION
+4921,There is no man playing a guitar,A man is singing and playing a guitar,4.1,CONTRADICTION
+4948,There is no little girl peddling a scooter,A little girl is peddling a scooter,4.0,CONTRADICTION
+4975,Nobody is holding a hedgehog,Someone is holding a hedgehog,4.2,CONTRADICTION
+5049,A man is not cutting an onion,A man is cutting an onion,4.2,CONTRADICTION
+5114,Two sumo ringers are not fighting,Two sumo ringers are fighting,4.1,CONTRADICTION
+5132,There is no man putting some cheese on a pizza,A man is putting some cheese on a pizza,4.0,CONTRADICTION
+5139,There is no man doing a card trick,A man is doing a card trick,4.0,CONTRADICTION
+5166,There is no man pouring cleaner into the sink,A man is pouring cleaner into the sink,4.1,CONTRADICTION
+5319,A person is playing a keyboard,A person is not playing a keyboard,4.0,CONTRADICTION
+5359,A woman is peeling a potato,There is no lady peeling the potato,4.2,CONTRADICTION
+5361,The lady is peeling the potato,A woman is not peeling a potato,4.2,CONTRADICTION
+5384,A man is playing the guitar,There is no man playing the guitar,4.3,CONTRADICTION
+5420,There is no woman peeling a potato,A woman is peeling a potato,4.5,CONTRADICTION
+5429,Someone is reading the email,Someone is not reading the email,4.1,CONTRADICTION
+5697,There is no man putting some cheese on a pizza,A man is putting some cheese on a pizza,4.0,CONTRADICTION
+5834,A man is diving off a cliff,There is no man diving off a cliff,4.0,CONTRADICTION
+5845,There is no man playing the guitar,The man is playing the guitar,4.2,CONTRADICTION
+5899,A man and a woman are driving down the street in a jeep,A man and a woman are not driving down the street in a jeep,4.4,CONTRADICTION
+5906,There is no woman pouring ingredients into a bowl,A woman is pouring ingredients into a bowl,4.0,CONTRADICTION
+6035,The small child is wading through the water and is being guided by another person,The small child is not wading through the water and is not being guided by another person,4.5,CONTRADICTION
+6037,A young child is splashing in the water,There is no young child splashing in the water,4.0,CONTRADICTION
+6095,There is no man standing beside a large and colorful birdcage,A man is standing beside a large and colorful birdcage,4.6,CONTRADICTION
+6136,A group of racing dogs is wearing striped uniforms and is running down a track,There is no group of racing dogs wearing striped uniforms and running down a track,4.0,CONTRADICTION
+6205,A cold cyclist is celebrating,There is no cold cyclist celebrating,4.0,CONTRADICTION
+6291,A large group of cheerleaders is walking in a parade,There is no large group of cheerleaders walking in a parade,4.4,CONTRADICTION
+6307,A woman is playing with two young boys at a park,There is no woman playing with two young boys at a park,4.3,CONTRADICTION
+6405,The dark skinned male is standing on one hand in front of a yellow building,The dark skinned male is not standing on one hand in front of a yellow building,4.0,CONTRADICTION
+6489,A woman is snowboarding down an incline and another woman is standing behind her,There is no woman snowboarding down an incline and there is no other woman standing behind her,4.3,CONTRADICTION
+6565,The bicyclist is riding on a city street,The bicyclist is not riding on a city street,4.2,CONTRADICTION
+6576,A pet dog is standing on the bank and is looking at another brown dog in the pond,There is no pet dog standing on the bank and looking at another brown dog in the pond,4.5,CONTRADICTION
+6614,Four boys are kneeling next to each other in front of a ball,There are no boys kneeling next to each other in front of a ball,4.3,CONTRADICTION
+6802,"The player in purple, white and black is playing near the end of the field","The player in purple, white and black is not playing near the end of the field",4.3,CONTRADICTION
+6833,The kids are chasing each other in the sand,The kids are not chasing each other in the sand,4.3,CONTRADICTION
+6998,There is no soccer player who is being tackled by an opponent,A soccer player is being tackled by his opponent,4.3,CONTRADICTION
+7009,There is no white dog standing on the leaves on the ground,A white dog is standing on the leaves on the ground,4.3,CONTRADICTION
+7016,Two girls are not playing inside the jumper house,Two girls are playing inside a jumper house,4.0,CONTRADICTION
+7083,The crowd is watching a football game,The crowd is not watching a football game,4.2,CONTRADICTION
+7105,A small girl is riding in a toy car,A small girl is getting out of a toy car,4.2,CONTRADICTION
+7127,A black dog is playing with a brown dog on the sand,There is no brown dog and black dog playing in the sand,4.0,CONTRADICTION
+7161,The black dog is running through the grass,The black dog is walking through the tall grass,4.2,CONTRADICTION
+7166,A dog is standing with its two front paws on a rock in a field,There is no dog standing with its two front paws on a rock in the field,4.6,CONTRADICTION
+7347,Two children are playing on a statue,There are no children playing on a statue,4.1,CONTRADICTION
+7358,A blonde lady is looking at a tower,There is no blonde lady looking at a tower,4.0,CONTRADICTION
+7509,There are no dogs fighting for a frisbee in a lake,Two dogs are fighting for a frisbee in a lake,4.4,CONTRADICTION
+7516,A girl in pink is twirling a ribbon,There is no girl in pink twirling a ribbon,4.3,CONTRADICTION
+7539,A football player in a purple jersey is running with the ball for a touchdown,There is no football player in a purple jersey running with the ball for a touchdown,4.3,CONTRADICTION
+7567,The person is flying through the air on a bicycle,The person is not flying through the air on a bicycle,4.2,CONTRADICTION
+7569,There is no person on a bike jumping through the air with the sun flaring through the bike frame,A person on a bike is jumping through the air and the sun is flaring through the bike frame,4.2,CONTRADICTION
+7641,The black dog is walking along a tree trunk bridge over water,There is no dog crossing a river on a bridge made from a fallen tree,4.1,CONTRADICTION
+7689,A young boy is jumping off a chair,A young boy is jumping onto a chair,4.4,CONTRADICTION
+7716,A man is squirting water into the mouth of a white dog with a squirt gun,There is no man squirting water into the mouth of a white dog with a squirt gun,4.4,CONTRADICTION
+7798,A tennis player with a green headband is hitting the ball,A tennis player with a green headband is missing the ball,4.4,CONTRADICTION
+7993,Children in swimming suits are not playing in the water,Children in swimming suits are playing in the water,4.2,CONTRADICTION
+7995,The kids are wearing bathing suits and water is splashing around,The kids are not wearing suits and water is splashing around,4.4,CONTRADICTION
+8155,The young man is not rock climbing,The young man is rock climbing,4.2,CONTRADICTION
+8481,There is no bicyclist jumping on a pyramid-shaped ramp,A bicyclist is jumping on a pyramid-shaped ramp,4.1,CONTRADICTION
+8551,A grey silky dog is running in the grass and a brown dog looks on,A grey silky dog is lying in the grass and a brown dog is looking on,4.3,CONTRADICTION
+8663,Rollerbladers are rolling in formation down a hill,Rollerbladers are not rolling in formation down a hill,4.3,CONTRADICTION
+9187,There is no dog turning on the grass and pursuing a flying ball,A dog is turning on the grass and pursuing a flying ball,4.4,CONTRADICTION
+9223,There is no dog running with a volleyball,A dog is running with a volleyball,4.0,CONTRADICTION
+9367,A person with a red hooded jacket and a black backpack is walking near a rocky wall,A person with a red hooded jacket and a black backpack is not walking near a rocky wall,4.3,CONTRADICTION
+9387,Two children are not playing in the surf,Two children are playing in the surf,4.0,CONTRADICTION
+9423,No dog is in the sand that is blowing in the wind,A dog is in the sand that is blowing in the wind,4.1,CONTRADICTION
+9448,No dog is jumping in the shade of some trees,A dog is jumping in the shade of some trees,4.3,CONTRADICTION
+9461,A person on a bike is not in the air near a body of water,A person on a bike is in the air near a body of water,4.0,CONTRADICTION
+9540,The orange rider is not driving a motorcycle on one wheel,The orange rider is driving a motorcycle on one wheel,4.5,CONTRADICTION
+9607,There is no dog standing on one leg and is waiting for a soccer ball,A dog is standing on one leg and is waiting for a soccer ball,4.2,CONTRADICTION
+9645,No dog is emerging from a lake,A dog is emerging from a lake,4.0,CONTRADICTION
+9744,A little boy is sticking his tongue out for the camera and another boy is looking on,A little boy is sticking his tongue out for the camera and another boy is not looking,4.2,CONTRADICTION
